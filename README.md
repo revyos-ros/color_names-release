@@ -1,3 +1,26 @@
+## color_names (jazzy) - 0.0.3-7
+
+The packages in the `color_names` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy color_names --override-release-repository-push-url git@github.com:revyos-ros/color_names-release.git` on `Mon, 17 Jun 2024 08:34:49 -0000`
+
+The `color_names` package was released.
+
+Version of package(s) in repository `color_names`:
+
+- upstream repository: https://github.com/OUXT-Polaris/color_names.git
+- release repository: https://github.com/revyos-ros/color_names-release.git
+- rosdistro version: `0.0.3-6`
+- old version: `0.0.3-6`
+- new version: `0.0.3-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## color_names (rolling) - 0.0.3-1
 
 The packages in the `color_names` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling color_names` on `Sat, 15 Jan 2022 11:58:43 -0000`
